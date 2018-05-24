@@ -11,7 +11,7 @@ $ sudo snap install --channel=edge pyagenda --devmode
 
 ## Uso
 
-Solo ejecuta lo siguiente en la terminal:
+Ejecuta el siguiente comando en la terminal:
 
 ```bash
 $ pyagenda
