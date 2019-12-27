@@ -1,7 +1,7 @@
 # Py Agenda
 
 
-Py Agenda es un **Administrador de contactos🌟** hecho en python **sin dependencias👏** y es compatible con **Python 3🍻**.
+Py Agenda es un **Administrador de contactos🌟** hecho en **Python 3🍻**.
 
 ## Instalacion
 
